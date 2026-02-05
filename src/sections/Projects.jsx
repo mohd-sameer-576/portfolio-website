@@ -11,7 +11,7 @@ const projects = [
     title: "Chat App",
     description:
       "A real-time chat application built with the MERN stack using Socket.IO and Cloudinary.",
-    image: "/image.png",
+    image: "./image.png",
     tags: ["React", "Node.js", "MongoDB", "Express"],
     liveUrl: "https://introvertsonly.onrender.com/",
     githubUrl: "https://github.com/mohd-sameer-576/IntrovertsOnly",
@@ -21,7 +21,7 @@ const projects = [
     title: "Simple E-Commerce Platform",
     description:
       "Admin uploads products, customers browse and contact seller.",
-    image: "/mpgb.png",
+    image: "./mpgb.png",
     tags: ["React", "Tailwind CSS", "GSAP", "DaisyUI"],
     liveUrl: "https://mpgb-collection.netlify.app/",
     githubUrl: "https://github.com/mohd-sameer-576/MPGB-official",
@@ -31,7 +31,7 @@ const projects = [
     title: "Password Manager",
     description:
       "A React-based password manager with CRUD functionality.",
-    image: "/password.png",
+    image: "./password.png",
     tags: ["React", "Tailwind CSS", "CRUD"],
     liveUrl: "https://mohd-sameer-576.github.io/password-manager/",
     githubUrl: "https://github.com/mohd-sameer-576/password-manager",
@@ -41,7 +41,7 @@ const projects = [
     title: "ToDo List",
     description:
       "A ToDo app with async CRUD operations.",
-    image: "/todo.png",
+    image: "./todo.png",
     tags: ["React", "Tailwind CSS", "CRUD"],
     liveUrl: "https://mohd-sameer-576.github.io/002-ToDo-with-asyn/",
     githubUrl: "https://github.com/mohd-sameer-576/002-ToDo-with-asyn",
