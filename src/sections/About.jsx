@@ -7,7 +7,7 @@ import resume from '../../public/resume.pdf'
 gsap.registerPlugin(ScrollTrigger);
 
 const stats = [
-  { icon: Calendar, value: 'Freshers', label: 'Years Experience', color: 'cyan' },
+  { icon: Calendar, value: 'Fresher', label: 'Years Experience', color: 'cyan' },
   { icon: Briefcase, value: '5+', label: 'Projects Completed', color: 'magenta' },
 ];
 

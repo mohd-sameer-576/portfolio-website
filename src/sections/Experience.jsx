@@ -8,22 +8,22 @@ gsap.registerPlugin(ScrollTrigger);
 const experiences = [
   {
     type: 'education',
-    title: 'Diploma in Mechanical Engineering',
-    company: 'Govt. Polytechnic Masab Tank',
-    location: 'Hyderabad, Telengana',
-    period: '2021 - 2024',
-    description: 'Completed foundational training in mechanical systems, manufacturing processes, engineering drawing, thermodynamics, and basic design and maintenance of mechanical components.',
-    highlights: ['GPA: 8.12', 'Auto Cad'],
-    color: 'cyan'
-  },
-  {
-    type: 'education',
     title: 'Bachelor of Computer Science',
     company: 'Lords institute of Engineering and technology',
     location: 'Hyderabad, Telengana',
     period: '2024 - 2027',
     description: 'Graduated with honors. Strong foundation in software development and full stack web technologies. Experienced in building end-to-end web applications, working with databases, APIs, and modern frameworks. Actively learning, implementing real-world projects, and focused on writing clean, efficient, and scalable code.',
     highlights: [ 'Machine Learning', 'Artificial Intelligence','DBMS'],
+    color: 'cyan'
+  },
+  {
+    type: 'education',
+    title: 'Diploma in Mechanical Engineering',
+    company: 'Govt. Polytechnic Masab Tank',
+    location: 'Hyderabad, Telengana',
+    period: '2021 - 2024',
+    description: 'Completed foundational training in mechanical systems, manufacturing processes, engineering drawing, thermodynamics, and basic design and maintenance of mechanical components.',
+    highlights: ['GPA: 8.12', 'Auto Cad'],
     color: 'cyan'
   }
 ];
