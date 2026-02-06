@@ -23,7 +23,7 @@ const projects = [
       "Admin uploads products, customers browse and contact seller.",
     image: "./mpgb.png",
     tags: ["React", "Tailwind CSS", "GSAP", "DaisyUI"],
-    liveUrl: "https://mpgb-collection.netlify.app/",
+    liveUrl: "https://mpgbcollectionog.netlify.app",
     githubUrl: "https://github.com/mohd-sameer-576/MPGB-official",
   },
   {
