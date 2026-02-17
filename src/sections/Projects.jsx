@@ -8,6 +8,16 @@ gsap.registerPlugin(ScrollTrigger);
 const projects = [
   {
     id: 1,
+    title: "Social Media Application",
+    description:
+      "A full-stack social media application that allows users to create accounts, publish posts, and view content shared by other users in real time.",
+    image: "./socialmedia.png",
+    tags: ["React", "NodeJS", "ExpressJS", "MongoDB", "REST API"],
+    liveUrl: "https://artistnetwork.netlify.app/",
+    githubUrl: "https://github.com/mohd-sameer-576/socialMedia-Post-App",
+  },
+  {
+    id: 2,
     title: "Chat App",
     description:
       "A real-time chat application built with the MERN stack using Socket.IO and Cloudinary.",
@@ -17,7 +27,7 @@ const projects = [
     githubUrl: "https://github.com/mohd-sameer-576/IntrovertsOnly",
   },
   {
-    id: 2,
+    id: 3,
     title: "Simple E-Commerce Platform",
     description:
       "Admin uploads products, customers browse and contact seller.",
@@ -27,7 +37,7 @@ const projects = [
     githubUrl: "https://github.com/mohd-sameer-576/MPGB-official",
   },
   {
-    id: 3,
+    id: 4,
     title: "Password Manager",
     description:
       "A React-based password manager with CRUD functionality.",
@@ -37,7 +47,7 @@ const projects = [
     githubUrl: "https://github.com/mohd-sameer-576/password-manager",
   },
   {
-    id: 4,
+    id: 5,
     title: "ToDo List",
     description:
       "A ToDo app with async CRUD operations.",
