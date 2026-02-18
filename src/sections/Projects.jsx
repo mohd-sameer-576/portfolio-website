@@ -21,8 +21,8 @@ const projects = [
     title: "Chat App",
     description:
       "A real-time chat application built with the MERN stack using Socket.IO and Cloudinary.",
-    image: "./image.png",
-    tags: ["React", "Node.js", "MongoDB", "Express"],
+    image: "./chatapp.png",
+    tags: ["React", "Node.js", "MongoDB", "Express", "Socket.io"],
     liveUrl: "https://introvertsonly.onrender.com/",
     githubUrl: "https://github.com/mohd-sameer-576/IntrovertsOnly",
   },
