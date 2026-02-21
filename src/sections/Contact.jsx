@@ -19,8 +19,8 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "xmohdsameerx576@gmail.com",
-    href: "mailto:xmohdsameerx576@gmail.com",
+    value: "mohammedsameer576576@gmail.com",
+    href: "mailto:mohammedsameer576576@gmail.com",
   },
   {
     icon: Phone,
@@ -129,9 +129,9 @@ const Contact = () => {
     setIsSubmitting(true);
 
     // Replace these with your actual IDs from the EmailJS Dashboard
-    const SERVICE_ID = "service_8oqdcuc";
-    const TEMPLATE_ID = "template_jeolsic";
-    const PUBLIC_KEY = "rStSnUt7M9SuMKCoz";
+    const SERVICE_ID = "service_ky5dzgn";
+    const TEMPLATE_ID = "template_6j90udw";
+    const PUBLIC_KEY = "-9ebdG62Fe4EvIfdc";
 
     const templateParams = {
       name: formData.name,
